@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudsTwo&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudsTwo&theme=onedark)
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lime&theme=onedark)
-
+---
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cloudsTwo&repo=cookie-project&theme=buefy)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cloudsTwo&repo=vuepress_show_page&theme=buefy)
 
