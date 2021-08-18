@@ -11,10 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Lime
 - ⚡ Fun fact: X_X
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudsTwo&show_icons=true&theme=react)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lime&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudsTwo&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudsTwo&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudsTwo&theme=onedark)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lime&theme=onedark)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cloudsTwo&repo=cookie-project&theme=blueberry)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cloudsTwo&repo=vuepress_show_page&theme=blueberry)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cloudsTwo&repo=cookie-project&theme=solarized-light)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cloudsTwo&repo=vuepress_show_page&theme=solarized-light)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cloudsTwo&repo=txt-dec&theme=solarized-light)
 
