@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Lime
 - ⚡ Fun fact: X_X
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudsTwo&show_icons=true&theme=solarized-light)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lime)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudsTwo&theme=solarized-light)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudsTwo&show_icons=true&theme=calm)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lime&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudsTwo&theme=calm)
 
