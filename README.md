@@ -10,9 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: take plane
 - 😄 Pronouns: Lime
 - ⚡ Fun fact: X_X
-
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudsTwo&show_icons=true&theme=solarized-light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudsTwo&theme=solarized-light)
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lime)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudsTwo&theme=solarized-light)
 
